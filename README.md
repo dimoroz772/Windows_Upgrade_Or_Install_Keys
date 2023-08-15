@@ -1,6 +1,6 @@
  <br/>
 <p align="center">
-<img src="/Windows.png" width="150" height="150"/>
+<img src="./Windows.png" width="150" height="150"/>
 </p><br/>
 <h1 align="Center"><i>Windows_Upgrade</i></h1>
  <br/>
