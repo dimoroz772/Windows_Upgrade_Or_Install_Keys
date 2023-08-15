@@ -10,6 +10,9 @@ Windows 11 и Windows 10 (версии Semi-Annual Channel)
 <br />
 <hr align="left" width="300" size="4" color="#ff9900" />
 <br />
+<br />
+<hr align="left" width="300" size="4" color="#ff9900" />
+<br />
 Windows 10/11 Pro: W269N-WFGWX-YVC9B-4J6C9-T83GX
 <br />
 <hr align="left" width="300" size="4" color="#ff9900" />
