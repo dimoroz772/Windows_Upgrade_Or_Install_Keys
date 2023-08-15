@@ -1,4 +1,7 @@
-
+ <br/>
+<p align="center">
+<img src="./Windows_Logo.png" width="150" height="150"/>
+</p><br/>
 <h1 align="Center"><i>Универсальные лицензионные ключи Microsoft (GVLK) для обновления и установки клиентских версий Windows</i></h1>
 <h2 align="Center"><i>Данные ключи были взяты из информационно-коммуникационной сети интернет, <a href="https://learn.microsoft.com/ru-ru/windows-server/get-started/kms-client-activation-keys">официального сайта Microsoft.</a></i></h2>
 
