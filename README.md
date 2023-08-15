@@ -1,5 +1,5 @@
 <p align="center">
-<img width="100" height="100" src="https://github.com/dimoroz772/Windows_Upgrade_Or_Install_Keys/blob/main/Windows.png">
+<img src="https://github.com/dimoroz772/Windows_Upgrade_Or_Install_Keys/blob/main/Windows.png" width="150" height="150"/>
 </p>
 <h1 align="Center"> Windows_Upgrade</h1>
  <br/>
