@@ -84,30 +84,80 @@
    <td align="Left">Windows Server 2012 R2 Cloud Storage</td>
    <td>3NPTF-33KPT-GGBPR-YX76B-39KDD</td>
   </tr>
+  <tr>
+   <td colspan="2"> </td>
+  </tr>
+  <tr>
+   <td align="Left">Windows Server 2012 Standard</td>
+   <td>XC9B7-NBPP2-83J2H-RHMBY-92BT4</td>
+  </tr>
+  <tr>
+   <td align="Left">Windows Server 2012 Datacenter</td>
+   <td>48HP8-DN98B-MYWDG-T2DCC-8W83P</td>
+  </tr>
+  <tr>
+   <td align="Left">Windows Server 2012 MultiPoint Standard</td>
+   <td>HM7DN-YVMH3-46JC3-XYTG7-CYQJJ</td>
+  </tr>
+  <tr>
+   <td align="Left">Windows Server 2012 MultiPoint Premium</td>
+   <td>XNH6W-2V9GX-RGJ4K-Y8X6F-QGJ2G</td>
+  </tr>
+  <tr>
+   <td align="Left">Windows Server 2012 для конкретной страны</td>
+   <td>4K36P-JN4VD-GDC6V-KDT89-DYFKP</td>
+  </tr>
+  <tr>
+   <td align="Left">Windows Server 2012 для одного языка</td>
+   <td>2WN2H-YGCQR-KFX6K-CD6TF-84YXQ</td>
+  </tr>
+  <tr>
+   <td align="Left">Windows Server 2012 N</td>
+   <td>8N2M2-HWPGY-7PGT9-HGDD8-GVGGY</td>
+  </tr>
+  <tr>
+   <td align="Left">Windows Server 2012</td>
+   <td>BN3D2-R7TKB-3YPBD-8DRP2-27GG4</td>
+  </tr>
+  <tr>
+   <td colspan="2"> </td>
+  </tr>
+  <tr>
+   <td align="Left">Windows MultiPoint Server 2010</td>
+   <td>736RG-XDKJK-V34PF-BHK87-J6X3K</td>
+  </tr>
+  <tr>
+   <td colspan="2"> </td>
+  </tr>
+  <tr>
+   <td align="Left">Windows Server 2008 R2 Standard</td>
+   <td>YC6KT-GKW9T-YTKYR-T4X34-R7VHC</td>
+  </tr>
+  <tr>
+   <td align="Left">Windows Server 2008 R2 Datacenter</td>
+   <td>74YFP-3QFB3-KQT8W-PMXWJ-7M648</td>
+  </tr>
+  <tr>
+   <td align="Left">Windows Server 2008 R2 Enterprise</td>
+   <td>489J6-VHDMP-X63PK-3K798-CPX3Y</td>
+  </tr>
+  <tr>
+   <td align="Left">Windows Server 2008 R2 HPC Edition</td>
+   <td>TT8MH-CG224-D3D7Q-498W2-9QCTX</td>
+  </tr>
+  <tr>
+   <td align="Left">Windows Server 2008 R2 Web</td>
+   <td>6TPJF-RBVHG-WBW2R-86QPH-6RTM4</td>
+  </tr>
+  <tr>
+   <td align="Left">Windows Server 2008 R2 for Itanium-based Systems</td>
+   <td>GT63C-RJFQ3-4GMB6-BRFB9-CB83V</td>
+  </tr>
   
   
 
 
 
-
-Windows Server 2012 Standard: XC9B7-NBPP2-83J2H-RHMBY-92BT4
-Windows Server 2012 Datacenter: 48HP8-DN98B-MYWDG-T2DCC-8W83P
-Windows Server 2012 MultiPoint Standard: HM7DN-YVMH3-46JC3-XYTG7-CYQJJ
-Windows Server 2012 MultiPoint Premium: XNH6W-2V9GX-RGJ4K-Y8X6F-QGJ2G
-Windows Server 2012 для конкретной страны: 4K36P-JN4VD-GDC6V-KDT89-DYFKP
-Windows Server 2012 для одного языка: 2WN2H-YGCQR-KFX6K-CD6TF-84YXQ
-Windows Server 2012 N: 8N2M2-HWPGY-7PGT9-HGDD8-GVGGY
-Windows Server 2012: BN3D2-R7TKB-3YPBD-8DRP2-27GG4
-------------
-Windows Server 2008 R2 Standard: YC6KT-GKW9T-YTKYR-T4X34-R7VHC
-Windows Server 2008 R2 Datacenter: 74YFP-3QFB3-KQT8W-PMXWJ-7M648
-Windows Server 2008 R2 Enterprise: 489J6-VHDMP-X63PK-3K798-CPX3Y
-Windows Server 2008 R2 HPC Edition: TT8MH-CG224-D3D7Q-498W2-9QCTX
-Windows Server 2008 R2 Web: 6TPJF-RBVHG-WBW2R-86QPH-6RTM4
-Windows Server 2008 R2 for Itanium-based Systems: GT63C-RJFQ3-4GMB6-BRFB9-CB83V
-------------
-Windows MultiPoint Server 2010: 736RG-XDKJK-V34PF-BHK87-J6X3K
-------------
 Windows Server 2008 Standard: TM24T-X9RMF-VWXK6-X8JC9-BFGM2
 Windows Server 2008 Standard without Hyper-V: W7VD6-7JFBR-RX26B-YKQ3Y-6FFFJ
 Windows Server 2008 Enterprise: YQGMW-MPWTJ-34KDK-48M3W-X4Q6V
