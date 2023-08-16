@@ -277,5 +277,3 @@
    <td>Windows Vista Enterprise N</td>
    <td>VTC42-BM838-43QHV-84HX6-XJXKV</td>
   </tr>
-
-На этом все! Может кому пригодится)
