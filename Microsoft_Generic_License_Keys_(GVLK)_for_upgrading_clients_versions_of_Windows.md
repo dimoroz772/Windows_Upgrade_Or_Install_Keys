@@ -3,7 +3,40 @@
 <img src="./Windows_Logo.png" width="150" height="150"/>
 </p><br/>
 <h1 align="Center"><i>Универсальные лицензионные ключи Microsoft (GVLK) для обновления и установки клиентских версий Windows</i></h1>
-<h2 align="Center"><i>Данные ключи были взяты из информационно-коммуникационной сети интернет, <a href="https://learn.microsoft.com/ru-ru/windows-server/get-started/kms-client-activation-keys">официального сайта Microsoft.</a></i></h2>
+<h2 align="Center"><i>Данные ключи были взяты из информационно-коммуникационной сети интернет, <a href="https://learn.microsoft.com/ru-ru/windows-server/get-started/kms-client-activation-keys">официального сайта Microsoft.</a></i></h2><br/>
+
+<table>
+ <thead>
+  <tr>
+   <th>Version OC</th>
+   <th>Key</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Windows 11 и Windows 10 (версии Semi-Annual Channel)</td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td>Windows 10/11 Pro</td>
+   <td>W269N-WFGWX-YVC9B-4J6C9-T83GX</td>
+  </tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Windows 11 и Windows 10 (версии Semi-Annual Channel)
 ------------
