@@ -133,40 +133,48 @@
    <td>HMCNV-VVBFX-7HMBH-CTY9B-B4FXY</td>
   </tr>
   <tr>
-   <td></td>
-   <td></td>
+   <td>Windows 8.1 Корпоративная</td>
+   <td>MHF9N-XY6XB-WVXMC-BTDCT-MKKG7</td>
   </tr>
   <tr>
-   <td></td>
-   <td></td>
+   <td>Windows 8.1 Корпоративная N</td>
+   <td>TT4HM-HN7YT-62K67-RGRQJ-JFFXW</td>
   </tr>
   <tr>
-   <td></td>
-   <td></td>
+   <td>Windows 8.1 Core</td>
+   <td>M9Q9P-WNJJT-6PXPY-DWX8H-6XWKK</td>
   </tr>
   <tr>
-   <td></td>
-   <td></td>
+   <td>Windows 8.1 Core ARM</td>
+   <td>XYTND-K6QKT-K2MRH-66RTM-43JKP</td>
   </tr>
   <tr>
-   <td></td>
-   <td></td>
+   <td>Windows 8.1 Core Country Specific</td>
+   <td>NCTT7-2RGK8-WMHRF-RY7YQ-JTXG3</td>
   </tr>
   <tr>
-   <td></td>
-   <td></td>
+   <td>Windows 8.1 Core N</td>
+   <td>7B9N3-D94CG-YTVHR-QBPX3-RJP64</td>
   </tr>
   <tr>
-   <td></td>
-   <td></td>
+   <td>Windows 8.1 Core Single Language</td>
+   <td>BB6NG-PQ82V-VRDPW-8XVD2-V8P66</td>
   </tr>
   <tr>
-   <td></td>
-   <td></td>
+   <td>Windows 8.1 Professional Student</td>
+   <td>MX3RK-9HNGX-K3QKC-6PJ3F-W8D7B</td>
   </tr>
   <tr>
-   <td></td>
-   <td></td>
+   <td>Windows 8.1 Professional Student N</td>
+   <td>TNFGH-2R6PB-8XM3K-QYHX2-J4296</td>
+  </tr>
+  <tr>
+   <td>Windows 8.1 Professional WMC</td>
+   <td>789NJ-TQK6T-6XTH8-J39CJ-J8D3P</td>
+  </tr>
+  <tr>
+   <td>Windows 8.1 Core Connected</td>
+   <td>3PY8R-QHNP9-W7XQD-G6DPH-3J2C9</td>
   </tr>
   <tr>
    <td></td>
@@ -176,28 +184,13 @@
 
 
 
-------------
-Windows 8.1 Корпоративная: MHF9N-XY6XB-WVXMC-BTDCT-MKKG7
-------------
-Windows 8.1 Корпоративная N: TT4HM-HN7YT-62K67-RGRQJ-JFFXW
-------------
-Windows 8.1 Core: M9Q9P-WNJJT-6PXPY-DWX8H-6XWKK
-------------
-Windows 8.1 Core ARM: XYTND-K6QKT-K2MRH-66RTM-43JKP
-------------
-Windows 8.1 Core Country Specific: NCTT7-2RGK8-WMHRF-RY7YQ-JTXG3
-------------
-Windows 8.1 Core N: 7B9N3-D94CG-YTVHR-QBPX3-RJP64
-------------
-Windows 8.1 Core Single Language: BB6NG-PQ82V-VRDPW-8XVD2-V8P66
-------------
-Windows 8.1 Professional Student: MX3RK-9HNGX-K3QKC-6PJ3F-W8D7B
-------------
-Windows 8.1 Professional Student N: TNFGH-2R6PB-8XM3K-QYHX2-J4296
-------------
-Windows 8.1 Professional WMC: 789NJ-TQK6T-6XTH8-J39CJ-J8D3P
-------------
-Windows 8.1 Core Connected: 3PY8R-QHNP9-W7XQD-G6DPH-3J2C9
+
+
+
+
+
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Предшествующие версии Windows: Windows 8
 ------------
