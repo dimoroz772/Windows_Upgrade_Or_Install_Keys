@@ -14,13 +14,16 @@
  </thead>
  <tbody>
   <tr>
-   <td>Windows 11 и Windows 10 (версии Semi-Annual Channel)</td>
-   <td> </td>
+   <td colspan="2">Windows 11 и Windows 10 (версии Semi-Annual Channel)</td>
   </tr>
   <tr>
    <td>Windows 10/11 Pro</td>
    <td>W269N-WFGWX-YVC9B-4J6C9-T83GX</td>
   </tr>
+  <tr>
+   <td>Windows 10/11 Pro N</td>
+   <td>MH37W-N47XK-V7XM9-C7227-GCQG9</td>
+  </tr>
 
 
 
@@ -38,11 +41,8 @@
 
 
 
-Windows 11 и Windows 10 (версии Semi-Annual Channel)
-------------
-Windows 10/11 Pro: W269N-WFGWX-YVC9B-4J6C9-T83GX
-------------
-Windows 10/11 Pro N: MH37W-N47XK-V7XM9-C7227-GCQG9
+
+
 ------------
 Windows 10/11 Pro для рабочих станций: NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J
 ------------
