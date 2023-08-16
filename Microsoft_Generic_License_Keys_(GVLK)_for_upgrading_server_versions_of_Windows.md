@@ -16,53 +16,80 @@
  </thead>
  <tbody>
   <tr>
-   <td align="Left">Windows 10/11 Pro</td>
-   <td>W269N-WFGWX-YVC9B-4J6C9-T83GX</td>
+   <td align="Left">Windows Server 2022 Datacenter</td>
+   <td>WX4NM-KYWYW-QJJR4-XV3QB-6VM33</td>
+  </tr>
+  <tr>
+   <td align="Left">Windows Server 2022 Standard</td>
+   <td>VDYBN-27WPP-V4HQT-9VMD4-VMK7H</td>
   </tr>
   <tr>
    <td colspan="2"> </td>
   </tr>
   <tr>
-   <td align="Left">Windows 10/11 Pro</td>
-   <td>W269N-WFGWX-YVC9B-4J6C9-T83GX</td>
+   <td align="Left">Windows Server 2019 Datacenter</td>
+   <td>WMDGN-G9PQG-XVVXX-R3X43-63DFG</td>
   </tr>
+  <tr>
+   <td align="Left">Windows Server 2019 Standard</td>
+   <td>N69G4-B89J2-4G8F4-WWYCC-J464C</td>
+  </tr>
+  <tr>
+   <td align="Left">Windows Server 2019 Essentials</td>
+   <td>WVDHN-86M7X-466P6-VHXV7-YY726</td>
+  </tr>
+  <tr>
+   <td colspan="2"> </td>
+  </tr>
+  <tr>
+   <td align="Left">Windows Server 2016 Datacenter</td>
+   <td>CB7KF-BWN84-R7R2Y-793K2-8XDDG</td>
+  </tr>
+  <tr>
+   <td align="Left">Windows Server 2016 Standard</td>
+   <td>WC2BQ-8NRM3-FDDYY-2BFGV-KHKQY</td>
+  </tr>
+  <tr>
+   <td align="Left">Windows Server 2016 Essentials</td>
+   <td>JCKRF-N37P4-C2D82-9YXRT-4M63B</td>
+  </tr>
+  <tr>
+   <td align="Left">Windows Server 2016 Datacenter Preview</td>
+   <td>RDD2-NVGDP-K7QG8-69BR4-TVFHB</td>
+  </tr>
+  <tr>
+   <td align="Left">Windows Server 2016 Cloud Storage</td>
+   <td>QN4C6-GBJD2-FB422-GHWJK-GJG2R</td>
+  </tr>
+  <tr>
+   <td align="Left">Windows Server 2016 Azure Core</td>
+   <td>VP34G-4NPPG-79JTQ-864T4-R3MQX</td>
+  </tr>
+  <tr>
+   <td colspan="2"> </td>
+  </tr>
+  <tr>
+   <td align="Left">Windows Server 2012 R2 Standard</td>
+   <td>D2N9P-3P6X9-2R39C-7RTCD-MDVJX</td>
+  </tr>
+  <tr>
+   <td align="Left">Windows Server 2012 R2 Essentials</td>
+   <td>KNC87-3J2TX-XB4WP-VCPJV-M4FWM</td>
+  </tr>
+  <tr>
+   <td align="Left">Windows Server 2012 R2 Datacenter</td>
+   <td>W3GGN-FT8W3-Y4M27-J84CP-Q3VJ9</td>
+  </tr>
+  <tr>
+   <td align="Left">Windows Server 2012 R2 Cloud Storage</td>
+   <td>3NPTF-33KPT-GGBPR-YX76B-39KDD</td>
+  </tr>
+  
+  
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Windows Server 2022 Datacenter: WX4NM-KYWYW-QJJR4-XV3QB-6VM33
-Windows Server 2022 Standard: VDYBN-27WPP-V4HQT-9VMD4-VMK7H
-------------
-Windows Server 2019 Datacenter: WMDGN-G9PQG-XVVXX-R3X43-63DFG
-Windows Server 2019 Standard: N69G4-B89J2-4G8F4-WWYCC-J464C
-Windows Server 2019 Essentials: WVDHN-86M7X-466P6-VHXV7-YY726
-------------
-Windows Server 2016 Datacenter: CB7KF-BWN84-R7R2Y-793K2-8XDDG
-Windows Server 2016 Standard: WC2BQ-8NRM3-FDDYY-2BFGV-KHKQY
-Windows Server 2016 Essentials: JCKRF-N37P4-C2D82-9YXRT-4M63B
-Windows Server 2016 Datacenter Preview: RDD2-NVGDP-K7QG8-69BR4-TVFHB
-Windows Server 2016 Cloud Storage: QN4C6-GBJD2-FB422-GHWJK-GJG2R
-Windows Server 2016 Azure Core: VP34G-4NPPG-79JTQ-864T4-R3MQX
-------------
-Windows Server 2012 R2 Standard: D2N9P-3P6X9-2R39C-7RTCD-MDVJX
-Windows Server 2012 R2 Essentials: KNC87-3J2TX-XB4WP-VCPJV-M4FWM
-Windows Server 2012 R2 Datacenter: W3GGN-FT8W3-Y4M27-J84CP-Q3VJ9
-Windows Server 2012 R2 Cloud Storage: 3NPTF-33KPT-GGBPR-YX76B-39KDD
-------------
 Windows Server 2012 Standard: XC9B7-NBPP2-83J2H-RHMBY-92BT4
 Windows Server 2012 Datacenter: 48HP8-DN98B-MYWDG-T2DCC-8W83P
 Windows Server 2012 MultiPoint Standard: HM7DN-YVMH3-46JC3-XYTG7-CYQJJ
