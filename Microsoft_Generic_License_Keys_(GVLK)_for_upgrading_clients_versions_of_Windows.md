@@ -177,6 +177,53 @@
    <td>3PY8R-QHNP9-W7XQD-G6DPH-3J2C9</td>
   </tr>
   <tr>
+   <td colspan="2">Предшествующие версии Windows: Windows 8</td>
+  </tr>
+  <tr>
+   <td>Windows 8 Профессиональная</td>
+   <td>NG4HW-VH26C-733KW-K6F98-J8CK4</td>
+  </tr>
+  <tr>
+   <td>Windows 8 Pro N</td>
+   <td>XCVCF-2NXM9-723PB-MHCB7-2RYQQ</td>
+  </tr>
+  <tr>
+   <td>Windows 8 Корпоративная</td>
+   <td>32JNW-9KQ84-P47T8-D8GGY-CWCK7</td>
+  </tr>
+  <tr>
+   <td>Windows 8 Корпоративная N</td>
+   <td>JMNMF-RHW7P-DMY6X-RF3DR-X2BQT</td>
+  </tr>
+  <tr>
+   <td>Windows 8 Core</td>
+   <td>BN3D2-R7TKB-3YPBD-8DRP2-27GG4</td>
+  </tr>
+  <tr>
+   <td>Windows 8 Core Country Specific</td>
+   <td>4K36P-JN4VD-GDC6V-KDT89-DYFKP</td>
+  </tr>
+  <tr>
+   <td>Windows 8 Core N</td>
+   <td>8N2M2-HWPGY-7PGT9-HGDD8-GVGGY</td>
+  </tr>
+  <tr>
+   <td>Windows 8 Core Single Language</td>
+   <td>2WN2H-YGCQR-KFX6K-CD6TF-84YXQ</td>
+  </tr>
+  <tr>
+   <td>Windows 8 Professional WMC</td>
+   <td>GNBB8-YVD74-QJHX6-27H4K-8QHDG</td>
+  </tr>
+  <tr>
+   <td>Windows 8 Embedded Industry Professional</td>
+   <td>RYXVT-BNQG7-VD29F-DBMRY-HT73M</td>
+  </tr>
+  <tr>
+   <td>Windows 8 Embedded Industry Enterprise</td>
+   <td>NKB3R-R2F8T-3XCDP-7Q2KW-XWYQ2</td>
+  </tr>
+  <tr>
    <td></td>
    <td></td>
   </tr>
@@ -186,35 +233,6 @@
 
 
 
-
-
-
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Предшествующие версии Windows: Windows 8
-------------
-Windows 8 Профессиональная: NG4HW-VH26C-733KW-K6F98-J8CK4
-------------
-Windows 8 Pro N: XCVCF-2NXM9-723PB-MHCB7-2RYQQ
-------------
-Windows 8 Корпоративная: 32JNW-9KQ84-P47T8-D8GGY-CWCK7
-------------
-Windows 8 Корпоративная N: JMNMF-RHW7P-DMY6X-RF3DR-X2BQT
-------------
-Windows 8 Core: BN3D2-R7TKB-3YPBD-8DRP2-27GG4
-------------
-Windows 8 Core Country Specific: 4K36P-JN4VD-GDC6V-KDT89-DYFKP
-------------
-Windows 8 Core N: 8N2M2-HWPGY-7PGT9-HGDD8-GVGGY
-------------
-Windows 8 Core Single Language: 2WN2H-YGCQR-KFX6K-CD6TF-84YXQ
-------------
-Windows 8 Professional WMC: GNBB8-YVD74-QJHX6-27H4K-8QHDG
-------------
-Windows 8 Embedded Industry Professional: RYXVT-BNQG7-VD29F-DBMRY-HT73M
-------------
-Windows 8 Embedded Industry Enterprise — NKB3R-R2F8T-3XCDP-7Q2KW-XWYQ2
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Предшествующие версии Windows: Windows 7
 ------------
