@@ -153,34 +153,84 @@
    <td align="Left">Windows Server 2008 R2 for Itanium-based Systems</td>
    <td>GT63C-RJFQ3-4GMB6-BRFB9-CB83V</td>
   </tr>
+  <tr>
+   <td colspan="2"> </td>
+  </tr>
+  <tr>
+   <td align="Left">Windows Server 2008 Standard</td>
+   <td>TM24T-X9RMF-VWXK6-X8JC9-BFGM2</td>
+  </tr>
+  <tr>
+   <td align="Left">Windows Server 2008 Standard without Hyper-V</td>
+   <td>W7VD6-7JFBR-RX26B-YKQ3Y-6FFFJ</td>
+  </tr>
+  <tr>
+   <td align="Left">Windows Server 2008 Enterprise</td>
+   <td>YQGMW-MPWTJ-34KDK-48M3W-X4Q6V</td>
+  </tr>
+  <tr>
+   <td align="Left">Windows Server 2008 Enterprise без Hyper-V</td>
+   <td>39BXF-X8Q23-P2WWT-38T2F-G3FPG</td>
+  </tr>
+  <tr>
+   <td align="Left">Windows Server 2008 for Itanium</td>
+   <td>4DWFP-JF3DJ-B7DTH-78FJB-PDRHK</td>
+  </tr>
+  <tr>
+   <td align="Left">Windows Server 2008 Compute Cluster(HPC)</td>
+   <td>RCTX3-KWVHP-BR6TB-RB6DM-6X7HP</td>
+  </tr>
+  <tr>
+   <td align="Left">Windows Server 2008 Web</td>
+   <td>WYR28-R7TFJ-3X2YQ-YCY4H-M249D</td>
+  </tr>
+  <tr>
+   <td align="Left">Windows Server 2008 Datacenter</td>
+   <td>7M67G-PC374-GR742-YH8V4-TCBY3</td>
+  </tr>
+  <tr>
+   <td align="Left">Windows Server 2008 Datacenter без Hyper-V</td>
+   <td>22XQ2-VRXRG-P8D42-K34TD-G3QQC</td>
+  </tr>
+  <tr>
+   <td colspan="2">Windows Server (версии Semi-Annual Channel): Windows Server, версии 20H2, 2004, 1909, 1903 и 1809</td>
+  </tr>
+  <tr>
+   <td align="Left">Windows Server Datacenter</td>
+   <td>6NMRW-2C8FM-D24W7-TQWMY-CWH2D</td>
+  </tr>
+  <tr>
+   <td align="Left">Windows Server Standard</td>
+   <td>N2KJX-J94YW-TQVFB-DG9YT-724CC</td>
+  </tr>
+  <tr>
+   <td colspan="2">Windows Server версии 1709</td>
+  </tr>
+  <tr>
+   <td align="Left">Windows Server Datacenter</td>
+   <td>6Y6KB-N82V8-D8CQV-23MJW-BWTG6</td>
+  </tr>
+  <tr>
+   <td align="Left">Windows Server Standard</td>
+   <td>DPCNP-XQFKJ-BJF7R-FRC8D-GF6G4</td>
+  </tr>
+  <tr>
+   <td colspan="2">Windows Server версии 1803</td>
+  </tr>
+  <tr>
+   <td align="Left">Windows Server Datacenter</td>
+   <td>2HXDN-KRXHB-GPYC7-YCKFJ-7FVDG</td>
+  </tr>
+  <tr>
+   <td align="Left">Windows Server Standard</td>
+   <td>PTXN8-JFHJM-4WC78-MPCBR-9W4KR</td>
+  </tr>
+ </tbody>
+</table>
+</div>
+</body>
+</html>
   
-  
 
 
 
-Windows Server 2008 Standard: TM24T-X9RMF-VWXK6-X8JC9-BFGM2
-Windows Server 2008 Standard without Hyper-V: W7VD6-7JFBR-RX26B-YKQ3Y-6FFFJ
-Windows Server 2008 Enterprise: YQGMW-MPWTJ-34KDK-48M3W-X4Q6V
-Windows Server 2008 Enterprise без Hyper-V: 39BXF-X8Q23-P2WWT-38T2F-G3FPG
-Windows Server 2008 for Itanium: 4DWFP-JF3DJ-B7DTH-78FJB-PDRHK
-Windows Server 2008 Compute Cluster(HPC): RCTX3-KWVHP-BR6TB-RB6DM-6X7HP
-Windows Server 2008 Web: WYR28-R7TFJ-3X2YQ-YCY4H-M249D
-Windows Server 2008 Datacenter: 7M67G-PC374-GR742-YH8V4-TCBY3
-Windows Server 2008 Datacenter без Hyper-V: 22XQ2-VRXRG-P8D42-K34TD-G3QQC
-------------
-Windows Server (версии Semi-Annual Channel): Windows Server, версии 20H2, 2004, 1909, 1903 и 1809
-------------
-Windows Server Datacenter: 6NMRW-2C8FM-D24W7-TQWMY-CWH2D
-Windows Server Standard: N2KJX-J94YW-TQVFB-DG9YT-724CC
-------------
-Windows Server версии 1709
-------------
-Windows Server Datacenter: 6Y6KB-N82V8-D8CQV-23MJW-BWTG6
-Windows Server Standard: DPCNP-XQFKJ-BJF7R-FRC8D-GF6G4
-------------
-Windows Server версии 1803
-------------
-Windows Server Datacenter: 2HXDN-KRXHB-GPYC7-YCKFJ-7FVDG
-Windows Server Standard: PTXN8-JFHJM-4WC78-MPCBR-9W4KR
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-На этом все! Может кому пригодится)
