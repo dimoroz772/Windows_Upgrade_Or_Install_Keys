@@ -6,7 +6,7 @@
 <h2 align="Center"><i>Данные ключи были взяты из информационно-коммуникационной сети интернет, <a href="https://learn.microsoft.com/ru-ru/windows-server/get-started/kms-client-activation-keys">официального сайта Microsoft.</a></i></h2><br/>
 <html>
 <body>
-<div class="container">
+<div align="Center">
 <table>
  <thead>
   <tr>
