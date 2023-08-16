@@ -224,42 +224,58 @@
    <td>NKB3R-R2F8T-3XCDP-7Q2KW-XWYQ2</td>
   </tr>
   <tr>
-   <td></td>
-   <td></td>
+   <td colspan="2">Предшествующие версии Windows: Windows 7</td>
+  </tr>
+  <tr>
+   <td>Windows 7 Профессиональная</td>
+   <td>FJ82H-XT6CR-J8D7P-XQJJ2-GPDD4</td>
+  </tr>
+  <tr>
+   <td>Windows 7 Профессиональная N</td>
+   <td>MRPKT-YTG23-K7D7T-X2JMM-QY7MG</td>
+  </tr>
+  <tr>
+   <td>Windows 7 Профессиональная E</td>
+   <td>W82YF-2Q76Y-63HXB-FGJG9-GF7QX</td>
+  </tr>
+  <tr>
+   <td>Windows 7 Корпоративная</td>
+   <td>33PXH-7Y6KF-2VJC9-XBBR8-HVTHH</td>
+  </tr>
+  <tr>
+   <td>Windows 7 Корпоративная N</td>
+   <td>YDRBP-3D83W-TY26F-D46B2-XCKRJ</td>
+  </tr>
+  <tr>
+   <td>Windows 7 Корпоративная E</td>
+   <td>C29WB-22CC8-VJ326-GHFJW-H9DH4</td>
+  </tr>
+  <tr>
+   <td>Windows 7 Embedded POSReady</td>
+   <td>YBYF6-BHCR3-JPKRB-CDW7B-F9BK4</td>
+  </tr>
+  <tr>
+   <td>Windows 7 ThinPC</td>
+   <td>73KQT-CD9G6-K7TQG-66MRP-CQ22C</td>
+  </tr>
+  <tr>
+   <td colspan="2">Предшествующие версии Windows: Windows Vista</td>
+  </tr>
+  <tr>
+   <td>Windows Vista Business</td>
+   <td>YFKBB-PQJJV-G996G-VWGXY-2V3X8</td>
+  </tr>
+  <tr>
+   <td>Windows Vista Business N</td>
+   <td>HMBQG-8H2RH-C77VX-27R82-VMQBT</td>
+  </tr>
+  <tr>
+   <td>Windows Vista Enterprise</td>
+   <td>VKK3X-68KWM-X2YGT-QR4M6-4BWMV</td>
+  </tr>
+  <tr>
+   <td>Windows Vista Enterprise N</td>
+   <td>VTC42-BM838-43QHV-84HX6-XJXKV</td>
   </tr>
 
-
-
-
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Предшествующие версии Windows: Windows 7
-------------
-Windows 7 Профессиональная: FJ82H-XT6CR-J8D7P-XQJJ2-GPDD4
-------------
-Windows 7 Профессиональная N: MRPKT-YTG23-K7D7T-X2JMM-QY7MG
-------------
-Windows 7 Профессиональная E: W82YF-2Q76Y-63HXB-FGJG9-GF7QX
-------------
-Windows 7 Корпоративная: 33PXH-7Y6KF-2VJC9-XBBR8-HVTHH
-------------
-Windows 7 Корпоративная N: YDRBP-3D83W-TY26F-D46B2-XCKRJ
-------------
-Windows 7 Корпоративная E: C29WB-22CC8-VJ326-GHFJW-H9DH4
-------------
-Windows 7 Embedded POSReady: YBYF6-BHCR3-JPKRB-CDW7B-F9BK4
-------------
-Windows 7 ThinPC: 73KQT-CD9G6-K7TQG-66MRP-CQ22C
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Предшествующие версии Windows: Windows Vista
-------------
-Windows Vista Business: YFKBB-PQJJV-G996G-VWGXY-2V3X8
-------------
-Windows Vista Business N: HMBQG-8H2RH-C77VX-27R82-VMQBT
-------------
-Windows Vista Enterprise: VKK3X-68KWM-X2YGT-QR4M6-4BWMV
-------------
-Windows Vista Enterprise N: VTC42-BM838-43QHV-84HX6-XJXKV
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 На этом все! Может кому пригодится)
