@@ -92,23 +92,31 @@
    <td colspan="2">Windows 10 (версии LTSC и LTSB): Windows 10 LTSC 2021 и 2019</td>
   </tr>
   <tr> 
-   <td></td>
-   <td></td>
+   <td>Windows 10 Корпоративная LTSC 2019/2021</td>
+   <td>M7XTQ-FN8P6-TTKYV-9D4CC-J462D</td>
+  </tr>
+  <tr> 
+   <td>Windows 10 Корпоративная N LTSC 2019/2021</td>
+   <td>92NFX-8DJQP-P6BBQ-THF9C-7CG2H</td>
+  </tr>
+  <tr>
+   <td colspan="2">Windows 10 (версии LTSC и LTSB): Windows 10 LTSB 2016</td>
+  </tr>
+  <tr>
+   <td>Windows 10 Корпоративная LTSB 2016</td>
+   <td>DCPHK-NFMTC-H88MJ-PFHPY-QJ4BJ</td>
+  </tr>
+  <tr>
+   <td>Windows 10 Корпоративная N LTSB 2016</td>
+   <td>QFFDN-GRT3P-VKWWX-X7T3R-8B639</td>
   </tr>
 
 
 
 
-------------
-Windows 10 Корпоративная LTSC 2019/2021: M7XTQ-FN8P6-TTKYV-9D4CC-J462D
-------------
-Windows 10 Корпоративная N LTSC 2019/2021: 92NFX-8DJQP-P6BBQ-THF9C-7CG2H
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Windows 10 (версии LTSC и LTSB): Windows 10 LTSB 2016
-------------
-Windows 10 Корпоративная LTSB 2016: DCPHK-NFMTC-H88MJ-PFHPY-QJ4BJ
-------------
-Windows 10 Корпоративная N LTSB 2016: QFFDN-GRT3P-VKWWX-X7T3R-8B639
+
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Windows 10 (версии LTSC и LTSB): Windows 10 LTSB 2015
 ------------
