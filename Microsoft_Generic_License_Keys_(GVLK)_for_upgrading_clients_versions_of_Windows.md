@@ -5,7 +5,7 @@
 <h1 align="Center"><i>Универсальные лицензионные ключи Microsoft (GVLK) для обновления и установки клиентских версий Windows</i></h1>
 <h2 align="Center"><i>Данные ключи были взяты из информационно-коммуникационной сети интернет, <a href="https://learn.microsoft.com/ru-ru/windows-server/get-started/kms-client-activation-keys">официального сайта Microsoft.</a></i></h2><br/>
 
-<table>
+<table margin="auto">
  <thead>
   <tr>
    <th>Version OC</th>
@@ -277,3 +277,5 @@
    <td>Windows Vista Enterprise N</td>
    <td>VTC42-BM838-43QHV-84HX6-XJXKV</td>
   </tr>
+ </tbody>
+</table>
