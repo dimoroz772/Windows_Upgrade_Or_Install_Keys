@@ -52,35 +52,46 @@
    <td>Windows 10/11 Корпоративная</td>
    <td>NPPR9-FWDCX-D2C8J-H872K-2YT43</td>
   </tr>
+  <tr>
+   <td>Windows 10/11 Корпоративная N</td>
+   <td>DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4</td>
+  </tr>
+  <tr>
+   <td>Windows 10/11 Корпоративная G</td>
+   <td>YYVX9-NTFWV-6MDM3-9PT4T-4M68B</td>
+  </tr>
+  <tr>
+   <td>Windows 10/11 Корпоративная G N</td>
+   <td>44RPN-FTY23-9VTTB-MP9BX-T84FV</td>
+  </tr>
+  <tr>
+   <td>Windows 10 Home</td>
+   <td>TX9XD-98N7V-6WMQ6-BX7FG-H8Q99</td>
+  </tr>
+  <tr>
+   <td>Windows 10 Home Country Specific</td>
+   <td>PVMJN-6DFY6-9CCP6-7BKTT-D3WVR</td>
+  </tr>
+  <tr>
+   <td>Windows 10 Home N</td>
+   <td>3KHY7-WNT83-DGQKR-F7HPR-844BM</td>
+  </tr>
+  <tr>
+   <td>Windows 10 Home Single Language</td>
+   <td>7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH</td>
+  </tr>
+  <tr>
+   <td>Windows 10 Professional Preview</td>
+   <td>XQHPH-N4D9W-M8P96-DPDFP-TMVPY</td>
+  </tr>
+  <tr>
+   <td>Windows 10 Enterprise Preview</td>
+   <td>QNMXX-GCD3W-TCCT4-872RV-G6P4J</td>
+  </tr>
 
 
 
 
-
-
-
-
-
-
-
-------------
-Windows 10/11 Корпоративная N: DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
-------------
-Windows 10/11 Корпоративная G: YYVX9-NTFWV-6MDM3-9PT4T-4M68B
-------------
-Windows 10/11 Корпоративная G N: 44RPN-FTY23-9VTTB-MP9BX-T84FV
-------------
-Windows 10 Home: TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
-------------
-Windows 10 Home Country Specific: PVMJN-6DFY6-9CCP6-7BKTT-D3WVR
-------------
-Windows 10 Home N: 3KHY7-WNT83-DGQKR-F7HPR-844BM
-------------
-Windows 10 Home Single Language: 7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH
-------------
-Windows 10 Professional Preview: XQHPH-N4D9W-M8P96-DPDFP-TMVPY
-------------
-Windows 10 Enterprise Preview: QNMXX-GCD3W-TCCT4-872RV-G6P4J
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Windows 10 (версии LTSC и LTSB): Windows 10 LTSC 2021 и 2019
 ------------
