@@ -1,6 +1,48 @@
-Универсальные лицензионные ключи Microsoft (GVLK) для обновления и установки серверных версий Windows
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Данные ключи были взяты из информационно-коммуникационной сети интернет, оффициального сайта Microsoft: https://learn.microsoft.com/ru-ru/windows-server/get-started/kms-client-activation-keys
+ <br/>
+<p align="Center">
+<img src="./Windows_Logo.png" width="150" height="150"/>
+</p><br/>
+<h1 align="Center"><i>Универсальные лицензионные ключи Microsoft (GVLK) для обновления и установки серверных версий Windows</i></h1>
+<h2 align="Center"><i>Данные ключи были взяты из информационно-коммуникационной сети интернет, <a href="https://learn.microsoft.com/ru-ru/windows-server/get-started/kms-client-activation-keys">официального сайта Microsoft.</a></i></h2><br/>
+<html>
+<body>
+<div align="Center">
+<table>
+ <thead>
+  <tr>
+   <th>Version OC</th>
+   <th>Key</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td align="Left">Windows 10/11 Pro</td>
+   <td>W269N-WFGWX-YVC9B-4J6C9-T83GX</td>
+  </tr>
+  <tr>
+   <td colspan="2"> </td>
+  </tr>
+  <tr>
+   <td align="Left">Windows 10/11 Pro</td>
+   <td>W269N-WFGWX-YVC9B-4J6C9-T83GX</td>
+  </tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Windows Server 2022 Datacenter: WX4NM-KYWYW-QJJR4-XV3QB-6VM33
 Windows Server 2022 Standard: VDYBN-27WPP-V4HQT-9VMD4-VMK7H
