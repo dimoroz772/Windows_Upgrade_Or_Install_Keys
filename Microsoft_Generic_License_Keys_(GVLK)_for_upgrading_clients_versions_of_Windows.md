@@ -110,25 +110,72 @@
    <td>Windows 10 Корпоративная N LTSB 2016</td>
    <td>QFFDN-GRT3P-VKWWX-X7T3R-8B639</td>
   </tr>
+  <tr>
+   <td colspan="2">Windows 10 (версии LTSC и LTSB): Windows 10 LTSB 2015</td>
+  </tr>
+  <tr>
+   <td>Windows 10 Корпоративная 2015 с долгосрочным обслуживанием</td>
+   <td>WNMTR-4C88C-JK8YV-HQ7T2-76DF9</td>
+  </tr>
+  <tr>
+   <td>Windows 10 Корпоративная 2015 с долгосрочным обслуживанием N</td>
+   <td>2F77B-TNFGY-69QQF-B8YKP-D69TJ</td>
+  </tr>
+  <tr>
+   <td colspan="2">Предшествующие версии Windows: Windows 8.1</td>
+  </tr>
+  <tr>
+   <td>Windows 8.1 Профессиональная</td>
+   <td>GCRJD-8NW9H-F2CDX-CCM8D-9D6T9</td>
+  </tr>
+  <tr>
+   <td>Windows 8.1 Pro N</td>
+   <td>HMCNV-VVBFX-7HMBH-CTY9B-B4FXY</td>
+  </tr>
+  <tr>
+   <td></td>
+   <td></td>
+  </tr>
+  <tr>
+   <td></td>
+   <td></td>
+  </tr>
+  <tr>
+   <td></td>
+   <td></td>
+  </tr>
+  <tr>
+   <td></td>
+   <td></td>
+  </tr>
+  <tr>
+   <td></td>
+   <td></td>
+  </tr>
+  <tr>
+   <td></td>
+   <td></td>
+  </tr>
+  <tr>
+   <td></td>
+   <td></td>
+  </tr>
+  <tr>
+   <td></td>
+   <td></td>
+  </tr>
+  <tr>
+   <td></td>
+   <td></td>
+  </tr>
+  <tr>
+   <td></td>
+   <td></td>
+  </tr>
 
 
 
 
-
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Windows 10 (версии LTSC и LTSB): Windows 10 LTSB 2015
-------------
-Windows 10 Корпоративная 2015 с долгосрочным обслуживанием: WNMTR-4C88C-JK8YV-HQ7T2-76DF9
-------------
-Windows 10 Корпоративная 2015 с долгосрочным обслуживанием N: 2F77B-TNFGY-69QQF-B8YKP-D69TJ
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Предшествующие версии Windows: Windows 8.1
-------------
-Windows 8.1 Профессиональная: GCRJD-8NW9H-F2CDX-CCM8D-9D6T9
-------------
-Windows 8.1 Pro N: HMCNV-VVBFX-7HMBH-CTY9B-B4FXY
 ------------
 Windows 8.1 Корпоративная: MHF9N-XY6XB-WVXMC-BTDCT-MKKG7
 ------------
