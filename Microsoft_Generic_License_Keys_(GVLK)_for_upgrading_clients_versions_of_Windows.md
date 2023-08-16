@@ -5,7 +5,7 @@
 <h1 align="Center"><i>Универсальные лицензионные ключи Microsoft (GVLK) для обновления и установки клиентских версий Windows</i></h1>
 <h2 align="Center"><i>Данные ключи были взяты из информационно-коммуникационной сети интернет, <a href="https://learn.microsoft.com/ru-ru/windows-server/get-started/kms-client-activation-keys">официального сайта Microsoft.</a></i></h2><br/>
 
-<table margin="auto">
+<table>
  <thead>
   <tr>
    <th>Version OC</th>
