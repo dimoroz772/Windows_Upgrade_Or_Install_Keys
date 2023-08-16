@@ -14,7 +14,7 @@
  </thead>
  <tbody>
   <tr>
-   <td colspan="2"><p class="Center">Windows 11 и Windows 10 (версии Semi-Annual Channel)</p></td>
+   <td colspan="2">Windows 11 и Windows 10 (версии Semi-Annual Channel)</td>
   </tr>
   <tr>
    <td>Windows 10/11 Pro</td>
