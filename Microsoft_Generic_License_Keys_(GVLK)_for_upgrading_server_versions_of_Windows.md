@@ -16,6 +16,9 @@
  </thead>
  <tbody>
   <tr>
+   <td colspan="2">Windows Server 2022</td>
+  </tr>
+  <tr>
    <td align="Left">Windows Server 2022 Datacenter</td>
    <td>WX4NM-KYWYW-QJJR4-XV3QB-6VM33</td>
   </tr>
@@ -24,7 +27,7 @@
    <td>VDYBN-27WPP-V4HQT-9VMD4-VMK7H</td>
   </tr>
   <tr>
-   <td colspan="2"> </td>
+   <td colspan="2">Windows Server 2019</td>
   </tr>
   <tr>
    <td align="Left">Windows Server 2019 Datacenter</td>
@@ -39,7 +42,7 @@
    <td>WVDHN-86M7X-466P6-VHXV7-YY726</td>
   </tr>
   <tr>
-   <td colspan="2"> </td>
+   <td colspan="2">Windows Server 2016</td>
   </tr>
   <tr>
    <td align="Left">Windows Server 2016 Datacenter</td>
@@ -66,7 +69,7 @@
    <td>VP34G-4NPPG-79JTQ-864T4-R3MQX</td>
   </tr>
   <tr>
-   <td colspan="2"> </td>
+   <td colspan="2">Windows Server 2012 R2</td>
   </tr>
   <tr>
    <td align="Left">Windows Server 2012 R2 Standard</td>
@@ -85,7 +88,7 @@
    <td>3NPTF-33KPT-GGBPR-YX76B-39KDD</td>
   </tr>
   <tr>
-   <td colspan="2"> </td>
+   <td colspan="2">Windows Server 2012</td>
   </tr>
   <tr>
    <td align="Left">Windows Server 2012 Standard</td>
@@ -120,14 +123,14 @@
    <td>BN3D2-R7TKB-3YPBD-8DRP2-27GG4</td>
   </tr>
   <tr>
-   <td colspan="2"> </td>
+   <td colspan="2">Windows Server 2010</td>
   </tr>
   <tr>
    <td align="Left">Windows MultiPoint Server 2010</td>
    <td>736RG-XDKJK-V34PF-BHK87-J6X3K</td>
   </tr>
   <tr>
-   <td colspan="2"> </td>
+   <td colspan="2">Windows Server 2008 R2</td>
   </tr>
   <tr>
    <td align="Left">Windows Server 2008 R2 Standard</td>
@@ -154,7 +157,7 @@
    <td>GT63C-RJFQ3-4GMB6-BRFB9-CB83V</td>
   </tr>
   <tr>
-   <td colspan="2"> </td>
+   <td colspan="2">Windows Server 2008</td>
   </tr>
   <tr>
    <td align="Left">Windows Server 2008 Standard</td>
